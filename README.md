@@ -37,7 +37,7 @@ With sklearn.accuracy_score() we find the accuracy of our model.
  
 And in the last, you can manually check prediction for our trained model.
 
-For example, enter, 18 44 2 200 6
+For example, enter, **18 44 2 200 6**
 
 it will answer 
 
